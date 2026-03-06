@@ -1,0 +1,58 @@
+[
+  {
+    "name": "admin_status",
+    "file": "src/commands/admin_status.js"
+  },
+  {
+    "name": "categories",
+    "file": "src/commands/categories.js"
+  },
+  {
+    "name": "favorites",
+    "file": "src/commands/favorites.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "history",
+    "file": "src/commands/history.js"
+  },
+  {
+    "name": "mood",
+    "file": "src/commands/mood.js"
+  },
+  {
+    "name": "motivate",
+    "file": "src/commands/motivate.js"
+  },
+  {
+    "name": "remind",
+    "file": "src/commands/remind.js"
+  },
+  {
+    "name": "remind_off",
+    "file": "src/commands/remind_off.js"
+  },
+  {
+    "name": "remove_favorite",
+    "file": "src/commands/remove_favorite.js"
+  },
+  {
+    "name": "reset",
+    "file": "src/commands/reset.js"
+  },
+  {
+    "name": "save",
+    "file": "src/commands/save.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "tip",
+    "file": "src/commands/tip.js"
+  }
+]
